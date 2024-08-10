@@ -1,4 +1,4 @@
-### Hello，World！👋
+### Hello my friend！👋
 
 - 🐧 QQ: 3333331969
 - 🐼 WeChat：Tomatos03
