@@ -1,6 +1,5 @@
 ### Hello, my friend! 👋
 
-- 🐧 QQ: 3333331969
 - 🐼 WeChat: Tomatos03
 - 📫 Email: Tomatos3306@gmail.com
 - 😄 Motto: Failure is a part of life, and regret is the norm of youth.
