@@ -1,6 +1,6 @@
 # Hi! I'm Tomatos03 👋
 
-Welcome to my GitHub! I'm a passionate developer driven by an unwavering curiosity for technology.
+*Welcome to my GitHub! I'm a passionate developer driven by an unwavering curiosity for technology.*
 
 ## 💭 Daily Inspiration
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
