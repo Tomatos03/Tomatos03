@@ -1,8 +1,9 @@
-### Hello, my friend! 👋
+<img width="128" height="128" alt="图片" src="https://github.com/user-attachments/assets/40e334eb-f72b-4a26-8c0a-a11c67661f62" />### Hello, my friend! 👋
 
 - 🐼 WeChat: Tomatos03
 - 📫 Email: Tomatos3306@gmail.com
 - 😄 Motto: Failure is a part of life, and regret is the norm of youth.
+- 🎉 Blog: www.echobot.top
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomatos03&card_width=500&show_icons=true&theme=dracula)
 
