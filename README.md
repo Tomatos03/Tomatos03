@@ -26,6 +26,7 @@
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-DC382D?style=for-the-badge&logo=mybatis&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 **Frontend** \
@@ -38,12 +39,6 @@
 
 **Tools** \
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Analytics
-<div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomatos03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomatos03&layout=compact&theme=radical"/>
-</div>
 
 
 ## 📈 Contribution Graph
