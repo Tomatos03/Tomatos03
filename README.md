@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🔭 **Java Backend Developer** 
 - 📫 Email: **Tomatos3306@gmail.com**
-- 🌐 Blog: **tomatosblog.top**
+- 🌐 Blog: **www.tomatosblog.top**
 - 🌱 Always learning and exploring new technologies
 
 ## 🛠️ Tech Stack
