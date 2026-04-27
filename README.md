@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,js,typescript,html,css,tailwindcss,markdown,spring,vue,pinia,mysql,redis,rabbitmq,docker,nginx,git,github,vscode,idea,vim,postman,arch,windows,linux" alt="Tech Stack Icons" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=java,rust,js,typescript,html,css,tailwindcss,markdown,spring,vue,pinia,mysql,redis,rabbitmq,kafka,docker,nginx,git,github,vscode,idea,vim,postman,arch,windows,linux" alt="Tech Stack Icons" style="max-width: 100%;" />
 </p>
 
 <table>
@@ -52,7 +52,14 @@
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><b>Message Queue</b></td>
+    <td>
       <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
+      <img src="https://img.shields.io/badge/RocketMQ-D77A61?style=flat&logo=apacherocketmq&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
     </td>
   </tr>
   <tr>
