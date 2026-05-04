@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,js,typescript,html,css,tailwindcss,markdown,spring,vue,pinia,mysql,redis,rabbitmq,kafka,docker,nginx,git,github,vscode,idea,vim,postman,arch,windows,linux" alt="Tech Stack Icons" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=java,python,rust,js,typescript,html,css,tailwindcss,markdown,spring,vue,pinia,mysql,redis,rabbitmq,kafka,docker,nginx,git,github,vscode,idea,vim,postman,arch,windows,linux" alt="Tech Stack Icons" style="max-width: 100%;" />
 </p>
 
 <table>
@@ -23,6 +23,7 @@
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="margin-right: 10px; margin-bottom: 10px;" />&nbsp;
     </td>
   </tr>
   <tr>
