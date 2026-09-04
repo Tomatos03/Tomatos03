@@ -99,10 +99,6 @@
 
 <img src="https://gitcity.natrajx.in/api/svg?u=Tomatos03" alt="My GitHub Skyline" style="width: 100%;"/>
 
-## 📈 Contribution Graph
-
-[![Tomatos03's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tomatos03&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 <div align="center">
     
